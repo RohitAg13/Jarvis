@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Chat - Home</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+        <script src="script.js"></script>
+    </head>
+    <body onload="getLocation()">
+        <div class="chat-container">
+
+            <div class="chat-header">
+                <div class="bot-name">Resind</div>
+            </div>
+
+
+            <div class="chat-body" id="chat-body">
+<!--
+<div class="restaurant-container">
+  <div class="restaurant-flex" id="restaurantsflex1">
+    <div class="restaurant">
+      <div class="name-and-image">
+        <div class="restaurant-image"><img src="https://b.zmtcdn.com/data/pictures/0/22540/893b6e82e149db3e30041b14f40522aa_featured_v2.jpg"></div>
+        <span>Balaram Mullick &amp; Radharaman Mullick Sweets</span>
+      </div>
+        <div class="restaurant-details">
+          <div class="name-and-id">
+
+            <div class="restaurant-id" onclick="addId(this)">22540</div>
+            <div class="rating">4.5</div>
+          </div>
+          <div class="restaurant-address">2, Broad Street, Near Ballygunge Phari, Ballygunge, Kolkata</div>
+          <div class="cost">Cost for two : Rs. 1000</div>
+          <div class="cuisine">Mithai</div>
+          <div class="restaurant-distance">2.66 kms</div>
+          <div class="view-more">
+            <a href="https://www.zomato.com/kolkata/balaram-mullick-radharaman-mullick-sweets-ballygunge?utm_source=api_basic_user&amp;utm_medium=api&amp;utm_campaign=v2.1">View More</a>
+          </div>
+        </div>
+      </div>
+    -->
+
+            </div>
+
+
+            <div class="input-box-container">
+                <textarea id="message" placeholder="Type your message..."></textarea>
+                <div class="send-button">
+                    <img src="http://snapchat-download.net/wp-content/uploads/2015/10/snapchat-blue-arrow-icon-mean.png" alt="send-button" onclick="sendMessage()" id="send-message">
+                </div>
+            </div>
+
+        </div>
+
+        <script>
+
+            document.getElementById("message").onkeyup = function(e){
+                if(e.which == 13)
+                {
+                    document.getElementById("send-message").click();
+                }
+            }
+
+
+            function addId(obj){
+                var id = obj.innerHTML;
+                document.getElementById("message").value = id;
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jq",
+				"jqXhr"
+			],
+			[
+				"inline",
+				"inline-grid"
+			],
+			[
+				"s",
+				"sleep"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"pos",
+				"post_image"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"hidden",
+				"hiddenlayer_activations"
+			],
+			[
+				"hid",
+				"hiddenlayer_input"
+			],
+			[
+				"si",
+				"sigmoid"
+			],
+			[
+				"hi",
+				"hiddenlayer_neurons"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"img",
+				"img_encoded"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"cs",
+				"csvRow"
+			],
+			[
+				"user",
+				"user_check"
+			],
+			[
+				"c",
+				"cModule"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"pp",
+				"ppr_name"
+			],
+			[
+				"Ppr",
+				"Ppr_Code"
+			],
+			[
+				"get",
+				"GET"
+			],
+			[
+				"wrte",
+				"writeHead"
+			],
+			[
+				"readfile",
+				"fs.readFile(path, options, callback);"
+			],
+			[
+				"m",
+				"myString"
+			],
+			[
+				"my",
+				"myFunction"
+			],
+			[
+				"dra",
+				"drawNet"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"canva",
+				"canvasContext"
+			],
+			[
+				"Win",
+				"WINNING_SCORE"
+			],
+			[
+				"ball",
+				"ballspeedY"
+			],
+			[
+				"pa",
+				"paddle1Y"
+			],
+			[
+				"comp",
+				"computerScore"
+			],
+			[
+				"com",
+				"computerScore"
+			],
+			[
+				"padd",
+				"paddle2YCenter"
+			],
+			[
+				"bal",
+				"ballY"
+			],
+			[
+				"pad",
+				"paddle2Y"
+			],
+			[
+				"Pa",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"ba",
+				"ballY"
+			],
+			[
+				"ca",
+				"canvas"
+			],
+			[
+				"mou",
+				"mouseY"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"col",
+				"colorCircle"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"draw",
+				"drawColor"
+			],
+			[
+				"dr",
+				"drawColor"
+			],
+			[
+				"con",
+				"canvasContext"
+			],
+			[
+				"b",
+				"ballX"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"listen",
+				"listenForNotificationRequests"
+			],
+			[
+				"mat",
+				"matchId"
+			],
+			[
+				"matc",
+				"match"
+			],
+			[
+				"match",
+				"matchId"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"content",
+				"contents"
+			],
+			[
+				"team",
+				"team-2"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"g",
+				"googleClient"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ne",
+				"neutral"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.py",
+			"settings":
+			{
+				"buffer_size": 3082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intents.json",
+			"settings":
+			{
+				"buffer_size": 1461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "model_test.py",
+			"settings":
+			{
+				"buffer_size": 3476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "app.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Vi",
+		"selected_items":
+		[
+			[
+				"Vi",
+				"Virtualenv: Activate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"v",
+				"Virtualenv: Activate"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"node server.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/AppData/Roaming/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/C/Users/USER/Downloads/server/server/chat ui/jquery-1.12.3.min.js",
+		"/C/xampp/htdocs/login.php",
+		"/C/Users/USER/Downloads/app (1).py",
+		"/E/Code/serverChatform.java",
+		"/C/xampp/htdocs/website/apilogin.php",
+		"/C/Users/USER/AndroidStudioProjects/ChatApp/app/src/main/res/drawable/send_button.xml",
+		"/C/Users/USER/Downloads/app.py",
+		"/C/Users/USER/Downloads/chat ui/script.js",
+		"/C/Users/USER/Downloads/chat ui/style.css",
+		"/C/Python27/templates/index.html",
+		"/C/Users/USER/Downloads/server/server/training_data",
+		"/C/Users/USER/Downloads/server/server/model_test.py",
+		"/C/xampp/htdocs/website/login.php",
+		"/C/xampp/htdocs/website/apiloginfac.php",
+		"/C/Python27/web_app.py",
+		"/C/Python27/web.py",
+		"/C/Python27/Sentiment_analysis.py",
+		"/C/Users/USER/Downloads/chat ui/index.html",
+		"/C/Users/USER/Downloads/server/server/app.py",
+		"/C/Python27/apitesting.py",
+		"/E/Code/firebase/functions/index.js",
+		"/C/Python27/server.py",
+		"/C/Python27/templates/chai_index.html",
+		"/C/Python27/chai.py",
+		"/C/xampp/htdocs/website/apiattendance.php",
+		"/C/Users/USER/AndroidStudioProjects/CricNwin/app/src/main/assets/sample.html",
+		"/C/Python27/client.py",
+		"/C/Python27/cc.py",
+		"/C/Users/USER/Downloads/index (1).html",
+		"/E/College/cv.py",
+		"/E/Code/forward_propagation.py",
+		"/E/Code/ajp.txt",
+		"/C/Python27/audio.py",
+		"/C/Python27/send_email.py",
+		"/C/Python27/Kaggle1.py",
+		"/C/Python27/cv_video.py",
+		"/C/Python27/cvMotion.py",
+		"/C/Python27/cv3.py",
+		"/C/Python27/doc_scanner.py",
+		"/C/Python27/ocr.py",
+		"/C/Python27/cartoon.py",
+		"/F/heritage.html",
+		"/C/Python27/result.py",
+		"/C/Python27/lib/site-packages/mechanize/_mechanize.py",
+		"/E/My website/style.css",
+		"/E/Code/ClientChatForm.java",
+		"/E/My website/index.html",
+		"/C/Users/USER/Desktop/volley.txt",
+		"/C/xampp/htdocs/database.php",
+		"/E/My website/tr.html",
+		"/C/Users/USER/Pictures/ss.php",
+		"/C/xampp/htdocs/website/fac_home.php",
+		"/C/xampp/htdocs/website/loginpage.php",
+		"/C/xampp/htdocs/website/apilist.php",
+		"/C/xampp/htdocs/website/update.php",
+		"/C/xampp/htdocs/IT_2/login.php",
+		"/E/Code/when/functions/f.js",
+		"/E/Code/when/functions/e.js",
+		"/E/Code/when/functions/d.js",
+		"/E/Code/when/functions/c.js",
+		"/E/Code/when/functions/b.js",
+		"/E/Code/when/functions/a.js",
+		"/E/Code/when/functions/index.js",
+		"/C/xampp/htdocs/website/Stud_home.php",
+		"/C/xampp/htdocs/website/factimetable.php",
+		"/C/xampp/htdocs/website/apitimetable.php",
+		"/C/xampp/htdocs/website/apitimetablefac.php",
+		"/C/xampp/htdocs/website/Stud_attend.php",
+		"/C/Users/USER/Videos/Website/Website/apitimetablefac.php",
+		"/C/xampp/htdocs/website/apiupdate.php",
+		"/C/xampp/htdocs/website/list.php",
+		"/C/xampp/htdocs/website/logout.php",
+		"/C/xampp/htdocs/website/footer.php",
+		"/C/xampp/htdocs/website/course.php",
+		"/C/Users/USER/AndroidStudioProjects/ud867-master/1.01-Exercise-RunYourFirstTask/README.md",
+		"/E/test.html",
+		"/E/Code/basic/node_three/views/layouts/test.hbs",
+		"/E/Code/when/functions/package.json",
+		"/E/Code/basic/node_three/routes/index.js",
+		"/C/Users/USER/Downloads/main (1)/main/java/com/when/threemb/whenfaculty/LoginActivity.java",
+		"/C/Users/USER/Videos/MyApplication/app/src/main/res/values/dimens.xml",
+		"/C/Users/USER/Videos/MyApplication/app/src/main/res/layout/activity_other_days.xml",
+		"/C/Users/USER/Downloads/main/main/res/layout/activity_other_days.xml",
+		"/C/Users/USER/Downloads/main/main/java/com/when/threemb/whenfaculty/DatabaseHandler.java",
+		"/C/Users/USER/Videos/MyApplication/app/src/main/java/com/when/threemb/whenfaculty/NotificationBuilder.java",
+		"/E/Code/firebase/chatapp-cd651-firebase-adminsdk-6jawr-3af550b7c3.json",
+		"/E/Code/firebase/firebase.json",
+		"/E/index.js",
+		"/E/Code/when/firebase.json",
+		"/C/xampp/htdocs/Website/apiupdate.php",
+		"/C/xampp/htdocs/Website/apiloginfac.php",
+		"/F/dome.html",
+		"/C/Users/USER/AndroidStudioProjects/WhenFaculty/app/src/main/main/java/com/when/threemb/whenfaculty/OtherDays.java",
+		"/C/Users/USER/AndroidStudioProjects/WhenFaculty/app/src/main/main/java/com/when/threemb/whenfaculty/LoginActivity.java",
+		"/C/Users/USER/AndroidStudioProjects/WhenFaculty/app/src/main/main/java/com/when/threemb/whenfaculty/AboutUs.java",
+		"/C/Users/USER/Videos/MyApplication/app/src/main/java/com/when/threemb/whenfaculty/DatabaseHandler.java",
+		"/C/xampp/htdocs/Website/Website/apiupdate.php",
+		"/C/Users/USER/Downloads/PhotoIntentActivity/src/com/example/android/photobyintent/PhotoIntentActivity.java",
+		"/C/Users/USER/Downloads/PhotoIntentActivity/src/com/example/android/photobyintent/AlbumStorageDirFactory.java",
+		"/C/Users/USER/Downloads/PhotoIntentActivity/src/com/example/android/photobyintent/BaseAlbumDirFactory.java",
+		"/C/Users/USER/Downloads/PhotoIntentActivity/src/com/example/android/photobyintent/FroyoAlbumDirFactory.java",
+		"/E/Code/basic/node_three/bin/www",
+		"/E/Code/basic/node_three/views/layouts/error.hbs",
+		"/E/Code/basic/node_three/views/layouts/index.hbs",
+		"/E/Code/basic/node_three/views/layouts/layout.hbs",
+		"/E/Code/basic/node_three/views/error.jade",
+		"/E/Code/basic/node_three/app.js",
+		"/E/Code/basic/node_three/package.json",
+		"/E/Code/basic/node_three/views/layout.jade",
+		"/E/Code/basic/node_two/index.html",
+		"/E/Code/basic/node_two/login.html",
+		"/E/Code/basic/node_two/server.js",
+		"/E/Code/basic/node_two/app.js",
+		"/E/Code/basic/node_one/server.js",
+		"/E/Code/basic/index.html",
+		"/E/Code/basic/module.js",
+		"/E/Code/basic/server.js",
+		"/C/Users/USER/Downloads/Video11-Code-Your-First-Game-Source/video11-code-your-first-game-source/11-step3/game.html",
+		"/C/Users/USER/Downloads/empmaster.php",
+		"/E/Code/Game JS/breakout.html",
+		"/E/Code/Game JS/snake.html",
+		"/E/Code/Game JS/video07-code-your-first-game-source/07-step6/game.html",
+		"/C/Users/USER/Downloads/cs109-dl-videos-master/cs109-dl-videos-master/README.md",
+		"/E/Code/freecodecamp/README.md",
+		"/E/Code/freecodecamp/package.json",
+		"/E/Code/test.js",
+		"/E/Code/test/node_modules/freecodecamp/index.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "intents.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "model_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
